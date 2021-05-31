@@ -1,0 +1,6 @@
+id=lybx3p_adreno
+name=adreno driver for smx150 on A11 display hal
+version=v1
+versionCode=1
+author=lybxlpsv
+description=adreno driver for smx150 on A11 display hal. blobs from PA.
